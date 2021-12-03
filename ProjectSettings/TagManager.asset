@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Food
+  - DoNotTouch
+  - Body
+  - Snake
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Floor
+  - Post Processing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3075573527
+    locked: 0
+  - name: Gameplay
+    uniqueID: 2866855087
+    locked: 0
+  - name: UI
+    uniqueID: 84262253
+    locked: 0
+  - name: Transition
+    uniqueID: 1699587389
+    locked: 0
+  - name: Above Transition
+    uniqueID: 1852632355
+    locked: 0
