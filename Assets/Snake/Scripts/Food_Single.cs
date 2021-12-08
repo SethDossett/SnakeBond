@@ -1,12 +1,7 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
-public class Food_Motor : MonoBehaviour
+public class Food_Single : MonoBehaviour
 {
-    private float randomX;
-    private float randomY;
-    Vector2 spawnLocation;
     Event_Master eventMaster;
 
     void OnEnable()
